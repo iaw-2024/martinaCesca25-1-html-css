@@ -46,3 +46,9 @@ h1{
     border-radius: 5px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 700px) {
+    .container {
+        max-width: 90%;
+    }
+}
